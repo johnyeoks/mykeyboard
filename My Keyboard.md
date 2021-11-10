@@ -41,27 +41,23 @@ Was poor.
 Is mad poor but with RGB and thocks.  
 Hehe.
 
-
 ---
-
-## Intro
 <br/>
 
+## Intro
 The end of a beginning. The beginning of an end.  
 The end of my plebian keyboard life. The beginning of de-stonking my bank and wallet.  
 
 ---
-
-## Foreword
 <br/>
 
+## Foreword
 **Lazy**
 
 ---
-
-## Chapter 1
 <br/>
 
+## Chapter 1
 **EPOMaker Skyloong AK84S**
 |Item|Details|
 |:--:|:-----:|
@@ -76,10 +72,9 @@ The end of my plebian keyboard life. The beginning of de-stonking my bank and wa
 |Switch Type|Gateron White 35g|
 
 ---
-
-## Chapter 2
 <br/>
 
+## Chapter 2
 1. Dust Cover - Case / Cloth
 2. Felt Bag
 3. POM OEM Jelly keycap / KBDFANS OEM Blank / Transparent ABS keycap - Alphabetic keys
