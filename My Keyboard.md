@@ -1,8 +1,7 @@
 # My Keyboard
-
-## Preface
 <br/>
 
+## Preface
 Ran out of food, groaning and complaining yet you drag your fat obesed bump out to a mall to get some Doritos and Coke cuz' you are living on your own, dressed up in your slobby ass hoodie and jeans, messy hair, all alone with earphones tucked in listening to some anime weeabo songs like 'Blue Bird by Ikimono-gakari' or 'Avatar's Love by Jeremy Zuckerman'.
 Lacking the confidence, you subconciously buried both of your hands deep into the pockets of your jeans as if it is winter cold but it actually is summer and you are just a social awkward incel loser who spends most of the time on Reddit, Discord and 4chan.
 <br/><br/>
