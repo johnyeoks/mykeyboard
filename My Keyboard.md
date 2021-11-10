@@ -37,8 +37,6 @@ Haha.
 <br/>
 
 ## Prologue
-<br/>
-
 Was poor.  
 Is mad poor but with RGB and thocks.  
 Hehe.
